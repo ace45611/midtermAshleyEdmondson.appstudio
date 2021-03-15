@@ -10,6 +10,7 @@ Runs until the user wants to stop.
 The program runs without error.
 */
 
+/*
 let bucketList = []
 i = 0
 let seeBucketList = false
@@ -22,6 +23,7 @@ while (seeBucketList == false) {
 
 for (x = 0; x < bucketList.length; x++)
     console.log(bucketList[x])
+*/
     
     
     
