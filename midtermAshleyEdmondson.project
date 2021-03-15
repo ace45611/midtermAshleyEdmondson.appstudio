@@ -42,6 +42,14 @@
             "bucketList",
             "bucketList.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "animalEC",
+            "animalEC.json"
+          ]
         }
       ],
       "configxml": null,
