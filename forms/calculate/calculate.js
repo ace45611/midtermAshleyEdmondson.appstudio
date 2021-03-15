@@ -23,6 +23,7 @@ The main program outputs the answer using a template literal and this format:
 The program runs without error. 
 */
 
+/*
 function calcAvgSquare(num1,num2,num3){
     avgSquare = ((num1 + num2 + num3)/3) * ((num1 * num1))
     return avgSquare
@@ -34,7 +35,7 @@ number3 = Number(prompt("Enter a third number"))
 
 answer = calcAvgSquare(number1,number2,number3)
 console.log(`The answer is ${answer}`)
-
+*/
 
 
 
